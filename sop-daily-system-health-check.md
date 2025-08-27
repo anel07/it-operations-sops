@@ -1,7 +1,7 @@
 # SOP: Daily System Health Check
 
 **Version:** 1.0  
-**Date:** 2025-05-20
+**Date:** 2025-05-20  
 **Owner:** IT Operations Team  
 
 ---
